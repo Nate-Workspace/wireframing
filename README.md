@@ -38,3 +38,27 @@ A wireframe, despite its simplicity, incorporates several key elements that cont
 * **Functionality:** While wireframes are not fully interactive, they indicate the intended functionality of different elements. This includes buttons that trigger actions, forms for data input, and placeholders for dynamic content.
 
     * **Example:** In the checkout process, a wireframe would include buttons for "Apply Coupon," "Proceed to Payment," and fields for entering personal and payment details. Indicating these functionalities in the wireframe helps stakeholders understand the intended user flow and interactions before development begins.
+
+
+
+
+
+## Types of Wireframes
+
+Wireframes can be broadly categorized into two main types based on their level of detail: low-fidelity and high-fidelity.
+
+**Low-Fidelity Wireframes:**
+
+* **Description:** Low-fidelity (lo-fi) wireframes are basic, quick sketches that focus on the fundamental structure and layout of a page. They typically use simple shapes (rectangles, circles, lines) and placeholders for content and images. Text is often represented by placeholder text (like "Lorem Ipsum") or short labels.
+* **Focus:** The primary focus is on the information hierarchy, content grouping, and basic navigation flow. Visual details like typography, color, and imagery are intentionally omitted.
+* **When to Use:** Lo-fi wireframes are typically used in the early stages of the design process, such as brainstorming sessions, initial client presentations, and rapid prototyping. They are excellent for quickly exploring different layout options and gathering early feedback on structure and functionality. Their speed of creation allows for fast iteration based on initial discussions.
+
+**High-Fidelity Wireframes:**
+
+* **Description:** High-fidelity (hi-fi) wireframes are more detailed and closer to the final user interface. They include more specific content, actual text (or representative text), and may incorporate basic visual elements like grayscale colors, realistic spacing, and sometimes actual imagery placeholders. They often specify the size and placement of individual elements more precisely.
+* **Focus:** Hi-fi wireframes provide a more accurate representation of the user interface and can be used to explore more complex interactions and information architecture. They can also be used for user testing to evaluate specific UI elements and content presentation.
+* **When to Use:** Hi-fi wireframes are typically used in later stages of the design process, after the basic structure has been established and approved. They are useful for detailed UI design planning, creating specifications for developers, and conducting more realistic user testing. They bridge the gap between the conceptual structure and the final visual design.
+
+## Type of Wireframe
+
+Based on the descriptions above, the wireframes we have been discussing and creating with basic shapes, placeholders, and focus on structure and layout are **low-fidelity wireframes**. They prioritize understanding the fundamental arrangement of elements, navigation flow, and content placement without delving into detailed visual aesthetics.
